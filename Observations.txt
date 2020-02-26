@@ -1,7 +1,6 @@
 Andrew McKinney
 12/18/2019
-VU_DABC
-WeatherPy Observations
+Observations
 
 1. Latitude has an impact on temperature. As hypothesized, cities closer to 0 (the equator) and further from the poles are higher in temperature. 
 It is interesting to note that the apex of the Max Temps observed on 12/18/2019 is not at 0. Instead it is slightly further south. 
@@ -9,7 +8,7 @@ This is most likely due to the southern hemisphere currently in its summer month
 It is also noted that the hottest cities observered were all located in AU, indicating a potential "heat wave" of some sort in the region.
 
 2. There does not appear to be any generalized impact of localization on Humidity, by either Latitude, Longitude, or Country.
-It is noted however, that the areas with the lowest humidity are found to be the locations with the highest Max Temperatures, located in Australiat.
+It is noted however, that the areas with the lowest humidity are found to be the locations with the highest Max Temperatures, located in Australia.
 There are some "holes" of localization. For example, cities within with Lng ~-150 appear to have a less diverse humidity level than those at 150.
 This is most likely observable due to the hot temperatures and lot humidity in Australia.
 
